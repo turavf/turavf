@@ -1,6 +1,5 @@
 ### Hi, Welcome to my profile! 👋
-
-turavf/README.md
+turavf/README.md in main
 
 ### About me:
 - 👋 Hi, I'm Tura Ventola Franch.
