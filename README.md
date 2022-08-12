@@ -2,7 +2,7 @@
 
 turavf/README.md
 
-# About me:
+### About me:
 - 👋 Hi, I'm Tura Ventola Franch.
 - 👁 Interested on developing algorithms applied to finance.
 - 🎓 I have a Bachelors in Economics and a Master's degree in Business analytics. 
