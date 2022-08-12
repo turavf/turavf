@@ -2,10 +2,11 @@
 
 turavf/README.md
 
-#About me:
-. 👋 Hi, I'm Tura Ventola Franch.
+# About me:
+- 👋 Hi, I'm Tura Ventola Franch.
 
-
+# 🛠 Technical Skills:
+ Python.NET numpy.Net 
 
 <!--
 **turavf/turavf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
