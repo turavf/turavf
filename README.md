@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, Welcome to my profile! 👋
+
+turavf/README.md
+
+About me:
+. 👋 Hi, I'm Tura Ventola Franch.
+
+
 
 <!--
 **turavf/turavf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
